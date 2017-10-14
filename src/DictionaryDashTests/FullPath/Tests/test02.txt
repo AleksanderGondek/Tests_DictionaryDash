@@ -1,0 +1,6 @@
+﻿hit
+cog
+dot
+dog
+hot
+log
